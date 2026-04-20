@@ -1,0 +1,5 @@
+{
+    "ventas": "ERROR: SQLSTATE[HY000] [2006] MySQL server has gone away (Connection: mysql, Host: 127.0.0.1, Port: 5432, Database: thinkion_etl, SQL: DESCRIBE ventas)",
+    "articulo_ventas": "ERROR: SQLSTATE[HY000] [2006] MySQL server has gone away (Connection: mysql, Host: 127.0.0.1, Port: 5432, Database: thinkion_etl, SQL: DESCRIBE articulo_ventas)",
+    "vinson_product_mix": "ERROR: SQLSTATE[HY000] [2006] MySQL server has gone away (Connection: mysql, Host: 127.0.0.1, Port: 5432, Database: thinkion_etl, SQL: DESCRIBE vinson_product_mix)"
+}
